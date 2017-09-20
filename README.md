@@ -1,9 +1,9 @@
 ## Getting Started ##
 Create a python environment, preferably python 2.7, and install requirements.txt file. Start the developement server on localhost
 port 8000.
-##Prerequisites##
+## Prerequisites ##
 python 2.7
-##Installing##
+## Installing ##
 use pip to install the requirements
-##Built With##
+## Built With ##
 Django version 1.8
